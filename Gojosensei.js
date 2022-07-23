@@ -3149,7 +3149,7 @@ View List Of Messages With ${prefix}listmsg`)
 	    break
 	    case 'anonymous': {
                 if (m.isGroup) return reply('Features Cannot Be Used For Groups!')
-				this.anonymous = this.anonymous ? this.anonymous : {}
+				this.anonymous = this.anonymous ? this.Dissanayaka Our  : {}
 				let buttons = [
                     { buttonId: 'Start', buttonText: { displayText: '🚶Start🚶' }, type: 1 }
                 ]
@@ -3849,8 +3849,8 @@ case 'allmenu': {
 ┃╠${prefix}masasubur (indo)
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
-┃╚═══════✍︎𝑁𝑒𝑥𝑢𝑠𝑁𝑤
-┗━「 *Created By ${ownername}*  𖠌」━⭓`
+┃╚═══════✍︎UD MODS
+┗━「 *Created By Udhanika  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
