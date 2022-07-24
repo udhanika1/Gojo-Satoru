@@ -3622,7 +3622,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c15f725add0381fb69c4b.jpg' }, caption: `*Hi ⁣Bro ${m.pushName}*\nPlease Realod My Number 0704638406 To Help Developer\n` }, { quoted: m })
+                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/Sl-ud-07-24' }, caption: `*Hi ⁣Bro ${m.pushName}*\nPlease Realod My Number 0704638406 To Help Developer\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
@@ -3851,7 +3851,7 @@ case 'allmenu': {
 ┃╠${prefix}masasubur (indo)
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
-┃╚═══════✍︎SL UF Bot
+┃╚═══════✍︎SL UD Bot
 ┗━「 *Created By Udhanika Dissanayaka *  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
