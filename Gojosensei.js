@@ -2099,6 +2099,7 @@ break
 🐦 Channel : ${anu.author.url}
 🐦 Description : ${anu.description}
 🐦 Url : ${anu.url}`,
+🐦 Our Whatsapp Group : https://chat.whatsapp.com/Js1wRUHBf2VBpkHAP114fD
                     footer: GojoMdNx.user.name,
                     buttons: buttons,
                     headerType: 4
@@ -3389,12 +3390,9 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │✙ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : SL UD Bot
 │✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : SL UD
 │✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : https://wa.me/94704638406
-│✙ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
+│✙ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : sludinternetprobider.com
 │✙ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
 │✙ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
-│✙ #Ranilgohome
-│✙ අරගලයට ජය 
-│✙ .kick ranil
 │✙ Powerd BY Udhanika Dissanyaka 
 └┬──────────────┈ ⳹
    │✑  Please Select The Button Below
@@ -3406,8 +3404,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
-                                    url: `https://sl-ud-mods.yolasite.com/`
+                                displayText: 'Join ꧁ՏᏞ ႮᎠ ᏴϴͲ ᏀᎡϴႮᏢ꧂ ',
+                                    url: `https://chat.whatsapp.com/Js1wRUHBf2VBpkHAP114fD`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3454,12 +3452,9 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │✙ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : SL UD Bot
 │✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : SL UD
 │✙ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : 94704638406
-│✙ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
+│✙ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : sludinternetprobider.com
 │✙ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
 │✙ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
-│✙ #Ranilgohome
-│✙ අරගලයට ජය 
-│✙ .kick ranil
 │✙ Powerd BY Udhanika Dissanyaka 
 └┬──────────────┈ ⳹
    │✑  Please Select The Button Below
@@ -3471,8 +3466,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
-                                    url: `https://sl-ud-mods.yolasite.com/`
+                                displayText: '꧁ՏᏞ ႮᎠ ᏴϴͲ ᏀᎡϴႮᏢ꧂',
+                                    url: `https://chat.whatsapp.com/Js1wRUHBf2VBpkHAP114fD`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3626,7 +3621,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
             case 'sc': case 'script': {
-                reply(`GitHub :https://sl-ud-mods.yolasite.com/\n Dont Forget To Give Star\n\nYouTube : https://youtube.com/channel/UC4eIQOT9JdznytsprIUhE-w\nDont Forget To Watch Tutorial`)
+                reply(`Webpage :https://sl-ud-mods.yolasite.com/\n Dont Forget To Give Subscribe r\n\nYouTube : https://youtube.com/channel/UC4eIQOT9JdznytsprIUhE-w\nDont Forget To like`)
             }
             break
 case 'allmenu': {
@@ -3634,6 +3629,8 @@ case 'allmenu': {
 ┏━「 *SL UD BOT* 」━━⭓ 
 ┃⁣please Subscribe My Yt Channel 
 ┃ https://youtube.com/channel/UC4eIQOT9JdznytsprIUhE-w
+┃⁣Join Our Whatsapp Group 
+┃⁣https://chat.whatsapp.com/Js1wRUHBf2VBpkHAP114fD
 ┃╔══☯︎「 MAIN 」☯︎
 ┃╠ ${prefix}alive
 ┃╠ ${prefix}script
